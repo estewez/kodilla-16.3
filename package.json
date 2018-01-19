@@ -1,0 +1,15 @@
+{
+  "name": "16.3",
+  "version": "1.0.0",
+  "description": "16.3",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "webpack"
+  },
+  "keywords": [
+    "16.3"
+  ],
+  "author": "Tomasz Pajor",
+  "license": "ISC"
+}
